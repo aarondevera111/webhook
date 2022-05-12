@@ -1,5 +1,5 @@
 
-userids = {
+{
 1,
 2,
 3,
@@ -7,4 +7,3 @@ userids = {
 5,
 
 }
-return userids
