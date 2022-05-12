@@ -1,9 +1,9 @@
 userids = {
-[1] = aa,
-[2] = b,
-[3] = v,
-[4] = h,
-[5] = gds,
-[6] = rte
+[1] = true,
+[2] = true,
+[3] = true,
+[4] = true,
+[5] = true,
+[6] = true
 }
 return userids
