@@ -1,9 +1,9 @@
-
-{
-1,
-2,
-3,
-4,
-5,
-
+userids = {
+[0] = true,
+[0] = true,
+[0] = true,
+[0] = true,
+[0] = true,
+[0] = true
 }
+return userids
